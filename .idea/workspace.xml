@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="961fae0f-75b9-41ed-b66c-8e23f5340224" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/application/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/domain/Mission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/domain/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/AdvancedMissionValidatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/BasicMissionValidatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/IMissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/IMissionValidatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/IScoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/src/br/com/fiap/engenhariagame/service/ScoreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orientação.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/Orientação.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/aula01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/application/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/aula01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/INumeroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/service/INumeroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/NumeroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/service/NumeroService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ScoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/service/ScoreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ValidacaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/service/ValidacaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula01/src/ui/ConsoleUI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3APP27crmaleapVbkqFDXysPZOM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/a/Aula02/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\a\aula01" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="961fae0f-75b9-41ed-b66c-8e23f5340224" name="Changes" comment="" />
+      <created>1772491021834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772491021834</updated>
+    </task>
+    <servers />
+  </component>
+</project>
